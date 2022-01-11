@@ -1,0 +1,14 @@
+Java 8 Installation:
+Step 1:
+Download Java 8 from this Link: 
+https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html
+Step 2:
+Create & Login oracle account to download above file
+Step 3:
+Click the downloaded file & install
+Step 4:
+After install go to C drive and verify below path (64 bit) it is installed or not.
+C:\Program Files\Java\jdk1.8.0_311
+Step 5:
+Setting Environmental Variable for Java
+Setting Path variable for Java bin folder
