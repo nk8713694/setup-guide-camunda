@@ -1,11 +1,22 @@
-Step 1:
-Java Guide
-Step 2:
-Maven Guide
-Step 3:
-Eclipse Guide
-Step 4:
-Postman Guide
-Step 5:
-Camunda Modeler:
-Download Link: https://camunda.com/download/modeler/
+	-java
+		* https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html
+		* Click & install
+		* Go to program Files and check Java & jdk folder
+		* Edit Environment variables set JAVA_HOME
+		* Edit path in the environment variables add %JAVA_HOME%\bin
+		* command prompt java --version
+	- Maven
+		* https://maven.apache.org/download.cgi
+		* Unzip it
+		* Edit environment variable and set MAVEN_HOME
+		* Edit path in the environment variables add %MAVEN_HOME%\bin
+		* command prompt mvn --version
+	- Eclipse
+		* https://www.eclipse.org/downloads/packages/
+		* Click & Install
+	- Postman
+		* https://www.postman.com/downloads/
+		* Click & install
+	- Camunda Modeler
+		* https://camunda.com/download/modeler/
+		* Unzip & Open and double click the camunda modeler application
