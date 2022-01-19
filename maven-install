@@ -1,1 +1,21 @@
+Maven Installation Step by Step
 
+Step 1: prerequisite
+Make sure JDK installed and enivronmental variables are configured.
+
+Step 2: Download
+Go to the link "https://maven.apache.org/download.cgi" to download the file
+
+Step 3: Installation
+Extract/Un zip the downloaded file
+(Make sure the Extracted folder location didn't changed)
+
+Step 4: Configuration
+Click Windows key+s and search 'environment' Click Edit environment variables (windows 10)
+Or Open System Properties
+Under the window goto advanced tab and click Environment Variables
+Add the 'apache-maven-3.8.4/bin' directory in the PATH environmental variable
+
+Step 5: Test Configuration
+Open Command prompt and type mvn -v
+It will show the maven version, java version installed on the system.
